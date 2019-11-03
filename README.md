@@ -5,6 +5,9 @@ Design
 ![](lvl2/pixel/level2_round_grey.png)
 ![](lvl2/pixel/level2_square_grey.png)
 
+## Syn2cat logo
+![](syn2cat/Syn2catLOGO_official.svg)
+
 ## Haxogreen logo
 ![](haxogreen/logo%2Bsymbol/square500.png)
 
